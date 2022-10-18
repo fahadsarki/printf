@@ -1,4 +1,4 @@
-C - printf project
+### C - printf project
 
 Learning Objectives
 
@@ -8,7 +8,7 @@ Collaborate in a team
 Know how to use flowcharts
 And how to approach a project
 
-Task
+### Task
 Write your own "printf" function
 
 Developed by Fahad Sarki Mukhtar & Samuel Obrozie Osiota
