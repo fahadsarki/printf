@@ -92,7 +92,8 @@
 // }
 
 #include "main.h"
-
+#include <stdlib.h>
+#include <stdio.h>
 /**
  * _printf - produces output according to a format
  * @format: format string containing the characters and the specifiers
